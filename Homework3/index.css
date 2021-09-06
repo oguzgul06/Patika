@@ -1,0 +1,37 @@
+.body {
+  background-color: antiquewhite;
+}
+
+.title {
+  color: brown;
+}
+
+.description {
+  font-weight: 600;
+}
+
+.intro {
+  display: flex;
+  justify-content: space-evenly;
+}
+
+.requirement {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.requirement > h3 {
+  color: white;
+  background-color: brown;
+  border-radius: 25px;
+}
+
+
+.body > h3 {
+    margin-left: 900px;
+}
+
+.body > img {
+    margin-left: 900px;
+}
