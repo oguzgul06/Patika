@@ -1,0 +1,22 @@
+.body {
+  background-color: silver;
+}
+
+.title {
+  text-align: center;
+  color: saddlebrown;
+  padding-top: 20px;
+}
+
+.lists > a {
+  margin-bottom: 5px;
+  text-align: center;
+  padding-left: 300px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.body > h2 {
+  text-align: center;
+  color: salmon;
+  margin-top: 25px;
+}

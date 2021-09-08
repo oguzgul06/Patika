@@ -1,0 +1,34 @@
+.body {
+  background-color: silver;
+}
+
+.title {
+  text-align: center;
+  color: saddlebrown;
+  padding-top: 20px;
+}
+
+.lists > a {
+  margin-bottom: 5px;
+  text-align: center;
+  padding-left: 300px;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+}
+
+.body > h2 {
+  text-align: center;
+  color: salmon;
+  margin-top: 25px;
+}
+
+.products > img {
+  height: 350px;
+  margin-left: 460px;
+  margin-bottom: 5px;
+}
+
+.list__text {
+  text-align: center;
+  list-style-position: inside;
+  margin-bottom: 25px;
+}
